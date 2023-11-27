@@ -25,6 +25,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MarsPhotos"
         tools:targetApi="33">
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
